@@ -1,0 +1,6 @@
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\VersionAttribute\bin\Debug\VersionAttribute.exe.config
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\VersionAttribute\obj\Debug\VersionAttribute.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\VersionAttribute\bin\Debug\VersionAttribute.exe
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\VersionAttribute\bin\Debug\VersionAttribute.pdb
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\VersionAttribute\obj\Debug\VersionAttribute.exe
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\VersionAttribute\obj\Debug\VersionAttribute.pdb

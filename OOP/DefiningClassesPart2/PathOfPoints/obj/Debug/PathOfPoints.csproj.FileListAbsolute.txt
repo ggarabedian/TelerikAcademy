@@ -1,0 +1,5 @@
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\PathOfPoints\bin\Debug\PathOfPoints.exe.config
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\PathOfPoints\bin\Debug\PathOfPoints.exe
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\PathOfPoints\bin\Debug\PathOfPoints.pdb
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\PathOfPoints\obj\Debug\PathOfPoints.exe
+c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\PathOfPoints\obj\Debug\PathOfPoints.pdb

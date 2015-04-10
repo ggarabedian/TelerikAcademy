@@ -1,0 +1,1 @@
+C:\Users\John\documents\visual studio 2013\Projects\MultiDimensionalArrays\MatrixClass\bin\Debug\MatrixClass.exe.config
