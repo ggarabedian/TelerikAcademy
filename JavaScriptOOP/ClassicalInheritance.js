@@ -95,7 +95,7 @@ function solve() {
 			}
 
 			if(ageAsNum < 0 || ageAsNum > 150){
-				throw new Error('Too old to exist...')
+				throw new Error('Age must be between 0 and 150 (now thats what i call old)');
 			}
 		}
 		
