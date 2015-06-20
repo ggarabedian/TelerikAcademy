@@ -103,4 +103,3 @@ function solve() {
 	} ());
 	return Person;
 }
-module.exports = solve;
