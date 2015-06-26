@@ -1,30 +1,30 @@
 /* Task Description */
 /*
-* Create an object domElement, that has the following properties and methods:
-  * use prototypal inheritance, without function constructors
-  * method init() that gets the domElement type
-    * i.e. `Object.create(domElement).init('div')`
-  * property type that is the type of the domElement
-    * a valid type is any non-empty string that contains only Latin letters and digits
-  * property innerHTML of type string
-    * gets the domElement, parsed as valid HTML
-	  * <type attr1="value1" attr2="value2" ...> .. content / children's.innerHTML .. </type>
-  * property content of type string
-    * sets the content of the element
-    * works only if there are no children
-  * property attributes
-    * each attribute has name and value
-    * a valid attribute has a non-empty string for a name that contains only Latin letters and digits or dashes (-)
-  * property children
-    * each child is a domElement or a string
-  * property parent
-    * parent is a domElement
-  * method appendChild(domElement / string)
-    * appends to the end of children list
-  * method addAttribute(name, value)
-    * throw Error if type is not valid
-  * // method removeAttribute(attribute)
-*/
+ * Create an object domElement, that has the following properties and methods:
+ * use prototypal inheritance, without function constructors
+ * method init() that gets the domElement type
+ * i.e. `Object.create(domElement).init('div')`
+ * property type that is the type of the domElement
+ * a valid type is any non-empty string that contains only Latin letters and digits
+ * property innerHTML of type string
+ * gets the domElement, parsed as valid HTML
+ * <type attr1="value1" attr2="value2" ...> .. content / children's.innerHTML .. </type>
+ * property content of type string
+ * sets the content of the element
+ * works only if there are no children
+ * property attributes
+ * each attribute has name and value
+ * a valid attribute has a non-empty string for a name that contains only Latin letters and digits or dashes (-)
+ * property children
+ * each child is a domElement or a string
+ * property parent
+ * parent is a domElement
+ * method appendChild(domElement / string)
+ * appends to the end of children list
+ * method addAttribute(name, value)
+ * throw Error if type is not valid
+ * // method removeAttribute(attribute)
+ */
 
 
 /* Example
@@ -61,128 +61,128 @@ Outputs:
 
 
 function solve() {
-	var domElement = (function () {
+  var domElement = (function() {
 
-		function isString(element){
-			return typeof element === 'string';
-		}
+    function isString(element) {
+      return typeof element === 'string';
+    }
 
-	  function validateTypeName(domElement){
-	    if ((!/^[a-zA-Z0-9]+$/.test(domElement)) || (domElement === '') || (!isString(domElement))) {
-	      throw new Error('Dom Element name must contain only latin letters or digits.');
-	    }
-	  }
+    function validateTypeName(domElement) {
+      if ((!/^[a-zA-Z0-9]+$/.test(domElement)) || (domElement === '') || (!isString(domElement))) {
+        throw new Error('Dom Element name must contain only latin letters or digits.');
+      }
+    }
 
-	  function validateAttributeName(attributeName){
-	    if ((!/^[a-zA-Z0-9\-]+$/.test(attributeName)) || (domElement === '')) {
-	      throw new Error('Attribute name must contain only latin letters, digits or dashes.');
-	    }
-	  }
+    function validateAttributeName(attributeName) {
+      if ((!/^[a-zA-Z0-9\-]+$/.test(attributeName)) || (domElement === '')) {
+        throw new Error('Attribute name must contain only latin letters, digits or dashes.');
+      }
+    }
 
-	  var domElement = {
+    var domElement = {
 
-			get type() {
-				return this._type;
-			},
-			set type(value) {
-				validateTypeName(value);
-				this._type = value;
-			},
-			get content() {
-				return this._content;
-			},
-			set content(value){
-				this._content = value;
-			},
-			get parent() {
-				return this._parent;
-			},
-			set parent(value){
-				this._parent = value;
-			},
-			get attributes() {
-				return this._attributes;
-			},
-			set attributes(value){
-				this._attributes = value;
-			},
-			get children() {
-				return this._children;
-			},
-			set children(value){
-				this._children = value;
-			},
+      get type() {
+        return this._type;
+      },
+      set type(value) {
+        validateTypeName(value);
+        this._type = value;
+      },
+      get content() {
+        return this._content;
+      },
+      set content(value) {
+        this._content = value;
+      },
+      get parent() {
+        return this._parent;
+      },
+      set parent(value) {
+        this._parent = value;
+      },
+      get attributes() {
+        return this._attributes;
+      },
+      set attributes(value) {
+        this._attributes = value;
+      },
+      get children() {
+        return this._children;
+      },
+      set children(value) {
+        this._children = value;
+      },
 
-	    init: function(type) {
-	      this.type = type;
-				this.attributes = {};
-				this.children = [];
-	      this.content;
-				this.parent;
+      init: function(type) {
+        this.type = type;
+        this.attributes = {};
+        this.children = [];
+        this.content;
+        this.parent;
 
-	      return this;
-	    },
+        return this;
+      },
 
-	    appendChild: function(child) {
-	      child.parent = this;
+      appendChild: function(child) {
+        child.parent = this;
 
-	      this.children.push(child);
+        this.children.push(child);
 
-	      return this;
-	    },
+        return this;
+      },
 
-	    addAttribute: function(name, value) {
-	      validateAttributeName(name);
-	      this.attributes[name] = value;
+      addAttribute: function(name, value) {
+        validateAttributeName(name);
+        this.attributes[name] = value;
 
-	      return this;
-	    },
+        return this;
+      },
 
-	    removeAttribute: function(attribute){
-	      if(this.attributes[attribute]){
-	        delete this.attributes[attribute];
-	      } else {
-	        throw new Error('The attribute to be removed does not exist!');
-	      }
+      removeAttribute: function(attribute) {
+        if (this.attributes[attribute]) {
+          delete this.attributes[attribute];
+        } else {
+          throw new Error('The attribute to be removed does not exist!');
+        }
 
-	      return this;
-	    },
+        return this;
+      },
 
-	    get innerHTML(){
-	      var innerHTML = '<' + this.type,
-	          keys = Object.keys(this.attributes).sort(),
-	          i, iLen,
-						j, jLen;
+      get innerHTML() {
+        var innerHTML = '<' + this.type,
+          keys = Object.keys(this.attributes).sort(),
+          i, iLen,
+          j, jLen;
 
-	      if (this.attributes) {
-	        for (i = 0, iLen = keys.length; i < iLen; i += 1) {
-	          innerHTML += ' ' + keys[i] + '="' + this.attributes[keys[i]] + '"';
-	        }
-	      }
-	      innerHTML += '>';
+        if (this.attributes) {
+          for (i = 0, iLen = keys.length; i < iLen; i += 1) {
+            innerHTML += ' ' + keys[i] + '="' + this.attributes[keys[i]] + '"';
+          }
+        }
+        innerHTML += '>';
 
-	      if (this.children.length > 0){
-	        this.content = '';
+        if (this.children.length > 0) {
+          this.content = '';
 
-	        for (j = 0, jLen = this.children.length; j < jLen; j += 1) {
-	          if (isString(this.children[j])) {
-	            innerHTML += this.children[j];
-	          } else {
-	            innerHTML += this.children[j].innerHTML;
-	          }
-	        }
-	      }
+          for (j = 0, jLen = this.children.length; j < jLen; j += 1) {
+            if (isString(this.children[j])) {
+              innerHTML += this.children[j];
+            } else {
+              innerHTML += this.children[j].innerHTML;
+            }
+          }
+        }
 
-	      if(this.content){
-	        innerHTML += this.content;
-	      }
+        if (this.content) {
+          innerHTML += this.content;
+        }
 
-	      innerHTML += '</' + this.type + '>';
+        innerHTML += '</' + this.type + '>';
 
-	      return innerHTML;
-	    }
-	  };
-	  	return domElement;
-	} ());
-		return domElement;
+        return innerHTML;
+      }
+    };
+    return domElement;
+  }());
+  return domElement;
 }
