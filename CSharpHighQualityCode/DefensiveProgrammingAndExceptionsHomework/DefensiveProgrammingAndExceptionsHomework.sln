@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assertions", "Assertions\Assertions.csproj", "{A0A1CEC8-0D3D-4886-AC50-975AE9D4A289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{AFCF9666-6905-4140-9E65-A0C7913C99BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A1CEC8-0D3D-4886-AC50-975AE9D4A289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A1CEC8-0D3D-4886-AC50-975AE9D4A289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A1CEC8-0D3D-4886-AC50-975AE9D4A289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A1CEC8-0D3D-4886-AC50-975AE9D4A289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCF9666-6905-4140-9E65-A0C7913C99BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCF9666-6905-4140-9E65-A0C7913C99BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCF9666-6905-4140-9E65-A0C7913C99BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCF9666-6905-4140-9E65-A0C7913C99BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

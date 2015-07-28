@@ -1,0 +1,6 @@
+c:\users\john\documents\visual studio 2013\Projects\DefensiveProgrammingAndExceptionsHomework\Assertions\bin\Debug\Assertions.exe.config
+c:\users\john\documents\visual studio 2013\Projects\DefensiveProgrammingAndExceptionsHomework\Assertions\bin\Debug\Assertions.exe
+c:\users\john\documents\visual studio 2013\Projects\DefensiveProgrammingAndExceptionsHomework\Assertions\bin\Debug\Assertions.pdb
+c:\users\john\documents\visual studio 2013\Projects\DefensiveProgrammingAndExceptionsHomework\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\DefensiveProgrammingAndExceptionsHomework\Assertions\obj\Debug\Assertions.exe
+c:\users\john\documents\visual studio 2013\Projects\DefensiveProgrammingAndExceptionsHomework\Assertions\obj\Debug\Assertions.pdb
