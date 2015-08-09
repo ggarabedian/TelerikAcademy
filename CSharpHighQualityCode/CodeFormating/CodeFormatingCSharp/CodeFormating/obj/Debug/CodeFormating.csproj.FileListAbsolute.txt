@@ -1,0 +1,8 @@
+c:\users\john\documents\visual studio 2013\Projects\CodeFormating\CodeFormating\bin\Debug\CodeFormating.exe.config
+C:\Users\John\documents\visual studio 2013\Projects\CodeFormating\CodeFormating\obj\Debug\CodeFormating.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2013\Projects\CodeFormating\CodeFormating\bin\Debug\CodeFormating.exe
+C:\Users\John\documents\visual studio 2013\Projects\CodeFormating\CodeFormating\bin\Debug\CodeFormating.pdb
+C:\Users\John\documents\visual studio 2013\Projects\CodeFormating\CodeFormating\bin\Debug\PowerCollections.dll
+C:\Users\John\documents\visual studio 2013\Projects\CodeFormating\CodeFormating\bin\Debug\PowerCollections.xml
+C:\Users\John\documents\visual studio 2013\Projects\CodeFormating\CodeFormating\obj\Debug\CodeFormating.exe
+C:\Users\John\documents\visual studio 2013\Projects\CodeFormating\CodeFormating\obj\Debug\CodeFormating.pdb

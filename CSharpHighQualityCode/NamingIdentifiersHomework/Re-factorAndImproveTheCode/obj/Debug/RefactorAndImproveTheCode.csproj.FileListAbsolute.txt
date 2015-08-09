@@ -1,0 +1,6 @@
+c:\users\john\documents\visual studio 2013\Projects\NamingIdentifiersHomework\Re-factorAndImproveTheCode\bin\Debug\Re-factorAndImproveTheCode.exe.config
+c:\users\john\documents\visual studio 2013\Projects\NamingIdentifiersHomework\Re-factorAndImproveTheCode\bin\Debug\Re-factorAndImproveTheCode.exe
+c:\users\john\documents\visual studio 2013\Projects\NamingIdentifiersHomework\Re-factorAndImproveTheCode\bin\Debug\Re-factorAndImproveTheCode.pdb
+c:\users\john\documents\visual studio 2013\Projects\NamingIdentifiersHomework\Re-factorAndImproveTheCode\obj\Debug\Re-factorAndImproveTheCode.exe
+c:\users\john\documents\visual studio 2013\Projects\NamingIdentifiersHomework\Re-factorAndImproveTheCode\obj\Debug\Re-factorAndImproveTheCode.pdb
+c:\users\john\documents\visual studio 2013\Projects\NamingIdentifiersHomework\Re-factorAndImproveTheCode\obj\Debug\RefactorAndImproveTheCode.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe.config
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.pdb
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.exe
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.pdb

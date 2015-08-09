@@ -1,0 +1,5 @@
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\ComparingSimpleMath\bin\Debug\ComparingSimpleMath.exe.config
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\ComparingSimpleMath\bin\Debug\ComparingSimpleMath.exe
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\ComparingSimpleMath\bin\Debug\ComparingSimpleMath.pdb
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\ComparingSimpleMath\obj\Debug\ComparingSimpleMath.exe
+C:\Users\John\Desktop\CodeTuningAndOptimization\Comparator\ComparingSimpleMath\obj\Debug\ComparingSimpleMath.pdb

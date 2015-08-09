@@ -1,0 +1,5 @@
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\CohesionAndCoupling\bin\Debug\CohesionAndCoupling.exe.config
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\CohesionAndCoupling\bin\Debug\CohesionAndCoupling.exe
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\CohesionAndCoupling\bin\Debug\CohesionAndCoupling.pdb
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\CohesionAndCoupling\obj\Debug\CohesionAndCoupling.exe
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\CohesionAndCoupling\obj\Debug\CohesionAndCoupling.pdb

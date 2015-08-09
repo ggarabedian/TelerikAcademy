@@ -1,0 +1,12 @@
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe.config
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.pdb
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.exe
+C:\Users\John\documents\visual studio 2013\Projects\HighQualityClassesHomework\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.pdb
+C:\Users\John\Desktop\HighQualityClassesHomework\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe.config
+C:\Users\John\Desktop\HighQualityClassesHomework\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.exe
+C:\Users\John\Desktop\HighQualityClassesHomework\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.pdb
+C:\Users\John\Desktop\HighQualityClassesHomework\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe
+C:\Users\John\Desktop\HighQualityClassesHomework\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.pdb
+C:\Users\John\Desktop\HighQualityClassesHomework\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.csprojResolveAssemblyReference.cache
