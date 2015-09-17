@@ -1,6 +1,0 @@
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Decorator\bin\Debug\Decorator.exe.config
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Decorator\bin\Debug\Decorator.exe
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Decorator\bin\Debug\Decorator.pdb
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Decorator\obj\Debug\Decorator.exe
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Decorator\obj\Debug\Decorator.pdb

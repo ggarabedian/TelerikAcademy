@@ -1,6 +1,0 @@
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Facade\bin\Debug\Facade.exe.config
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Facade\bin\Debug\Facade.exe
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Facade\bin\Debug\Facade.pdb
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Facade\obj\Debug\Facade.exe
-c:\users\gg\documents\visual studio 2015\Projects\StructuralPatternsHomework\Facade\obj\Debug\Facade.pdb
