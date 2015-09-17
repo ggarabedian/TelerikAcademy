@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{5E28F406-602F-4FB8-AF6E-4373782909C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{5B04DE18-7D48-4EF8-9310-4522A1BCD995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{0C87C9AC-57E5-4564-9986-8585BD442A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E28F406-602F-4FB8-AF6E-4373782909C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E28F406-602F-4FB8-AF6E-4373782909C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E28F406-602F-4FB8-AF6E-4373782909C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E28F406-602F-4FB8-AF6E-4373782909C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B04DE18-7D48-4EF8-9310-4522A1BCD995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B04DE18-7D48-4EF8-9310-4522A1BCD995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B04DE18-7D48-4EF8-9310-4522A1BCD995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B04DE18-7D48-4EF8-9310-4522A1BCD995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C87C9AC-57E5-4564-9986-8585BD442A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C87C9AC-57E5-4564-9986-8585BD442A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C87C9AC-57E5-4564-9986-8585BD442A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C87C9AC-57E5-4564-9986-8585BD442A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

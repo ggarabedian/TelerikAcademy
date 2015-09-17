@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Composite.Creature" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Faction" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABQAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Faction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Hero" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABQAAAAAAIAABAAAAAAAAAAA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Unit" Collapsed="true">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
