@@ -1,0 +1,6 @@
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Strategy\bin\Debug\Strategy.exe
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Strategy\bin\Debug\Strategy.pdb
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Strategy\obj\Debug\Strategy.exe
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Strategy\obj\Debug\Strategy.pdb

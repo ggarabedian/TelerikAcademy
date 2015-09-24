@@ -1,0 +1,6 @@
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Mediator\bin\Debug\Mediator.exe
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Mediator\bin\Debug\Mediator.pdb
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Mediator\obj\Debug\Mediator.exe
+C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\Mediator\obj\Debug\Mediator.pdb
