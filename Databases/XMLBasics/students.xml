@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xslt" ?>
+
+<students xmlns:students="urn:students">
+    <student>
+        <name>John</name>
+        <sex>male</sex>
+        <birthDate>13-10-1995</birthDate>
+        <phone>0888765432</phone>
+        <email>John@abv.bg</email>
+        <course>JS Apps</course>
+        <specialty>Front-End Developer</specialty>
+        <facultyNumber>123456789</facultyNumber>
+        <exams>
+            <exam>
+                <name>C# Basics</name>
+                <tutor>I.Kenov</tutor>
+                <score>450</score>
+            </exam>
+            <exam>
+                <name>C# OOP</name>
+                <tutor>N.Kostov</tutor>
+                <score>396</score>
+            </exam>
+        </exams>
+        <enrollmentInfo>
+            <date>10-01-2015</date>
+            <score>84</score>
+        </enrollmentInfo>
+        <endorsements>N/A</endorsements>
+    </student>
+    <student>
+        <name>Jane</name>
+        <sex>female</sex>
+        <birthDate>25-02-1990</birthDate>
+        <phone>0888123456</phone>
+        <email>Jane@yahoo.com</email>
+        <course>JS Apps</course>
+        <specialty>Ninja</specialty>
+        <facultyNumber>987654321</facultyNumber>
+        <exams>
+            <exam>
+                <name>JS Basics</name>
+                <tutor>D.Minkov</tutor>
+                <score>200</score>
+            </exam>
+            <exam>
+                <name>JS OOP</name>
+                <tutor>E.Georgiev</tutor>
+                <score>86</score>
+            </exam>
+        </exams>
+        <enrollmentInfo>
+            <date>12-11-2014</date>
+            <score>75</score>
+        </enrollmentInfo>
+        <endorsements>N/A</endorsements>
+    </student>
+
+</students>
