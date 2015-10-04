@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<catalogue>
+    <album>
+        <name>Overexposed</name>
+        <artist>Maroon 5</artist>
+        <year>2012</year>
+        <price>25.99</price>
+        <songs>
+            <song>
+                <title>Payphone</title>
+                <duration>220</duration>
+            </song>
+            <song>
+                <title>One More Night</title>
+                <duration>235</duration>
+            </song>
+            <song>
+                <title>Daylight</title>
+                <duration>202</duration>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>Revolver</name>
+        <artist>The Beatles</artist>
+        <year>1966</year>
+        <producer>George Martin</producer>
+        <songs>
+            <song>
+                <title>Yellow Submarine</title>
+                <duration>250</duration>
+            </song>
+            <song>
+                <title>Tomorrow Never Knows</title>
+            </song>
+            <song>
+                <title>Taxman</title>
+                <duration>212</duration>
+            </song>
+        </songs>
+    </album>
+</catalogue>

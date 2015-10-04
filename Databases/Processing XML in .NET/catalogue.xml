@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<catalogue>
+    <album>
+        <name>Overexposed</name>
+        <artist>Maroon 5</artist>
+        <year>2012</year>
+        <producer>N/A</producer>
+        <price>25.99</price>
+        <songs>
+            <song>
+                <title>Payphone</title>
+                <duration>220</duration>
+            </song>
+            <song>
+                <title>One More Night</title>
+                <duration>235</duration>
+            </song>
+            <song>
+                <title>Daylight</title>
+                <duration>202</duration>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>Revolver</name>
+        <artist>The Beatles</artist>
+        <year>1966</year>
+        <producer>George Martin</producer>
+        <price>15.99</price>
+        <songs>
+            <song>
+                <title>Yellow Submarine</title>
+                <duration>250</duration>
+            </song>
+            <song>
+                <title>Tomorrow Never Knows</title>
+                <duration>275</duration>
+            </song>
+            <song>
+                <title>Taxman</title>
+                <duration>212</duration>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>A Night At The Opera</name>
+        <artist>Queen</artist>
+        <year>1975</year>
+        <producer>Roy Thomas Baker</producer>
+        <price>17.99</price>
+        <songs>
+            <song>
+                <title>You're My Best Friend</title>
+                <duration>190</duration>
+            </song>
+            <song>
+                <title>Bohemian Rhapsody</title>
+                <duration>225</duration>
+            </song>
+            <song>
+                <title>God Save The Queen</title>
+                <duration>217</duration>
+            </song>
+            <song>
+                <title>Love Of My Life</title>
+                <duration>219</duration>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>Greatest Hits</name>
+        <artist>Queen</artist>
+        <year>1981</year>
+        <producer>Roy Thomas Baker</producer>
+        <price>24.99</price>
+        <songs>
+            <song>
+                <title>Bicycle Race</title>
+                <duration>195</duration>
+            </song>
+            <song>
+                <title>Bohemian Rhapsody</title>
+                <duration>225</duration>
+            </song>
+            <song>
+                <title>You're My Best Friend</title>
+                <duration>237</duration>
+            </song>
+            <song>
+                <title>Don't Stop Me Now</title>
+                <duration>209</duration>
+            </song>
+            <song>
+                <title>We Are The Champions</title>
+                <duration>234</duration>
+            </song>
+            <song>
+                <title>Somebody To Love</title>
+                <duration>210</duration>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>The Joshua Tree</name>
+        <artist>U2</artist>
+        <year>1987</year>
+        <producer>N/A</producer>
+        <price>22.99</price>
+        <songs>
+            <song>
+                <title>With Or Without You</title>
+                <duration>195</duration>
+            </song>
+            <song>
+                <title>I Still Haven't Found What I'm Looking For</title>
+                <duration>245</duration>
+            </song>
+            <song>
+                <title>Where The Streets Have No Name</title>
+                <duration>199</duration>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>The King Of Limbs</name>
+        <artist>Radiohead</artist>
+        <year>2011</year>
+        <producer>N/A</producer>
+        <price>21.99</price>
+        <songs>
+            <song>
+                <title>Bloom</title>
+                <duration>227</duration>
+            </song>
+            <song>
+                <title>Little By Little</title>
+                <duration>233</duration>
+            </song>
+            <song>
+                <title>Morning Mr Magpie</title>
+                <duration>212</duration>
+            </song>
+        </songs>
+    </album>
+</catalogue>
