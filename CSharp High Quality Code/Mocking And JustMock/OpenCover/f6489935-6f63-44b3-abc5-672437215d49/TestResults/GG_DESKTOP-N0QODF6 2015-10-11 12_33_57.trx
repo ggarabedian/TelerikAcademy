@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8463c5b4-0121-4945-8f40-048733e84db5" name="GG@DESKTOP-N0QODF6 2015-10-11 12:33:57" runUser="DESKTOP-N0QODF6\GG" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2015-10-11T12:33:57.4415621+03:00" queuing="2015-10-11T12:33:57.4455651+03:00" start="2015-10-11T12:33:57.4545715+03:00" finish="2015-10-11T12:33:57.5636434+03:00" />
+  <TestSettings name="default" id="778d4a37-847e-4d54-87f1-f05f9a11887f">
+    <Execution>
+      <TestTypeSpecific />
+    </Execution>
+    <Deployment runDeploymentRoot="GG_DESKTOP-N0QODF6 2015-10-11 12_33_57" />
+    <Properties />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="04834859-c5d5-4b05-9615-8f1b71ef5c6a" testId="f037348e-5622-8afa-d033-2a52f8422eb4" testName="IndexShouldReturnAllCars" computerName="DESKTOP-N0QODF6" duration="00:00:00.0175062" startTime="2015-10-11T12:33:56.5539739+03:00" endTime="2015-10-11T12:33:57.1333577+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04834859-c5d5-4b05-9615-8f1b71ef5c6a" />
+    <UnitTestResult executionId="a6c64ae6-cc82-4e29-aa2b-90d0e696bfd8" testId="55a31307-e0ad-955e-d03e-8485b4400afd" testName="AddingCarShouldThrowArgumentNullExceptionIfCarIsNull" computerName="DESKTOP-N0QODF6" duration="00:00:00.0090825" startTime="2015-10-11T12:33:57.1433651+03:00" endTime="2015-10-11T12:33:57.1553727+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6c64ae6-cc82-4e29-aa2b-90d0e696bfd8" />
+    <UnitTestResult executionId="9e0a9a18-bda9-4890-b9f9-a095cad769ab" testId="9289f178-2c67-4183-d44e-0a95f0bbc38f" testName="AddingCarShouldThrowArgumentNullExceptionIfCarMakeIsNull" computerName="DESKTOP-N0QODF6" duration="00:00:00.0022958" startTime="2015-10-11T12:33:57.1553727+03:00" endTime="2015-10-11T12:33:57.1603772+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e0a9a18-bda9-4890-b9f9-a095cad769ab" />
+    <UnitTestResult executionId="b1fce89a-2a07-416d-b8a3-55b5f067b9bc" testId="a4a492ca-b156-093c-4dad-2c91ffef94c3" testName="AddingCarShouldThrowArgumentNullExceptionIfCarModelIsNull" computerName="DESKTOP-N0QODF6" duration="00:00:00.0031496" startTime="2015-10-11T12:33:57.1603772+03:00" endTime="2015-10-11T12:33:57.1653801+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1fce89a-2a07-416d-b8a3-55b5f067b9bc" />
+    <UnitTestResult executionId="133a7794-a72d-4f8b-bf30-69fd4e6cb4f0" testId="16acb12f-ccfb-b450-5855-9be1648ee526" testName="AddingCarShouldReturnADetail" computerName="DESKTOP-N0QODF6" duration="00:00:00.0037425" startTime="2015-10-11T12:33:57.1653801+03:00" endTime="2015-10-11T12:33:57.1713833+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="133a7794-a72d-4f8b-bf30-69fd4e6cb4f0" />
+    <UnitTestResult executionId="28f212d9-26c2-46f4-85a3-fc314d4e34ad" testId="4ca634f7-bba5-7e75-6e98-c5196f3991ba" testName="SortingByMakeShouldOrderItemsCorrectly" computerName="DESKTOP-N0QODF6" duration="00:00:00.0019630" startTime="2015-10-11T12:33:57.1713833+03:00" endTime="2015-10-11T12:33:57.1753871+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28f212d9-26c2-46f4-85a3-fc314d4e34ad" />
+    <UnitTestResult executionId="a29ac9a7-acd7-41e4-836d-78e7c93ebee3" testId="fe6a5130-3fde-1340-d788-efa433e1d62c" testName="SortingByYearShouldOrderItemsCorrectly" computerName="DESKTOP-N0QODF6" duration="00:00:00.0010859" startTime="2015-10-11T12:33:57.1753871+03:00" endTime="2015-10-11T12:33:57.1793898+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a29ac9a7-acd7-41e4-836d-78e7c93ebee3" />
+    <UnitTestResult executionId="b5fb2a73-2521-4ec0-9613-5a025b9e6217" testId="08e76dd2-ea1d-4519-2d96-4e9fa20797cc" testName="SortingByNotSortableParameterShouldThrow" computerName="DESKTOP-N0QODF6" duration="00:00:00.0015027" startTime="2015-10-11T12:33:57.1793898+03:00" endTime="2015-10-11T12:33:57.1833921+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b5fb2a73-2521-4ec0-9613-5a025b9e6217" />
+    <UnitTestResult executionId="c3853c60-d3f1-4c34-9842-5da090e00d68" testId="8bab4cd7-8f14-88ab-974d-77c2c0eac6a8" testName="SortingByEmptyStringShouldThrow" computerName="DESKTOP-N0QODF6" duration="00:00:00.0014013" startTime="2015-10-11T12:33:57.1833921+03:00" endTime="2015-10-11T12:33:57.1863941+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c3853c60-d3f1-4c34-9842-5da090e00d68" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="IndexShouldReturnAllCars" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="f037348e-5622-8afa-d033-2a52f8422eb4">
+      <Execution id="04834859-c5d5-4b05-9615-8f1b71ef5c6a" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="IndexShouldReturnAllCars" />
+    </UnitTest>
+    <UnitTest name="AddingCarShouldThrowArgumentNullExceptionIfCarIsNull" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="55a31307-e0ad-955e-d03e-8485b4400afd">
+      <Execution id="a6c64ae6-cc82-4e29-aa2b-90d0e696bfd8" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="AddingCarShouldThrowArgumentNullExceptionIfCarIsNull" />
+    </UnitTest>
+    <UnitTest name="AddingCarShouldThrowArgumentNullExceptionIfCarMakeIsNull" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="9289f178-2c67-4183-d44e-0a95f0bbc38f">
+      <Execution id="9e0a9a18-bda9-4890-b9f9-a095cad769ab" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="AddingCarShouldThrowArgumentNullExceptionIfCarMakeIsNull" />
+    </UnitTest>
+    <UnitTest name="AddingCarShouldThrowArgumentNullExceptionIfCarModelIsNull" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="a4a492ca-b156-093c-4dad-2c91ffef94c3">
+      <Execution id="b1fce89a-2a07-416d-b8a3-55b5f067b9bc" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="AddingCarShouldThrowArgumentNullExceptionIfCarModelIsNull" />
+    </UnitTest>
+    <UnitTest name="AddingCarShouldReturnADetail" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="16acb12f-ccfb-b450-5855-9be1648ee526">
+      <Execution id="133a7794-a72d-4f8b-bf30-69fd4e6cb4f0" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="AddingCarShouldReturnADetail" />
+    </UnitTest>
+    <UnitTest name="SortingByMakeShouldOrderItemsCorrectly" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="4ca634f7-bba5-7e75-6e98-c5196f3991ba">
+      <Execution id="28f212d9-26c2-46f4-85a3-fc314d4e34ad" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="SortingByMakeShouldOrderItemsCorrectly" />
+    </UnitTest>
+    <UnitTest name="SortingByYearShouldOrderItemsCorrectly" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="fe6a5130-3fde-1340-d788-efa433e1d62c">
+      <Execution id="a29ac9a7-acd7-41e4-836d-78e7c93ebee3" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="SortingByYearShouldOrderItemsCorrectly" />
+    </UnitTest>
+    <UnitTest name="SortingByNotSortableParameterShouldThrow" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="08e76dd2-ea1d-4519-2d96-4e9fa20797cc">
+      <Execution id="b5fb2a73-2521-4ec0-9613-5a025b9e6217" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="SortingByNotSortableParameterShouldThrow" />
+    </UnitTest>
+    <UnitTest name="SortingByEmptyStringShouldThrow" storage="c:\users\gg\desktop\high-quality-code-master\20. mocking and justmock\demo\cars.tests.justmock\bin\debug\cars.tests.justmock.dll" id="8bab4cd7-8f14-88ab-974d-77c2c0eac6a8">
+      <Execution id="c3853c60-d3f1-4c34-9842-5da090e00d68" />
+      <TestMethod codeBase="C:\Users\GG\Desktop\High-Quality-Code-master\20. Mocking and JustMock\Demo\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Cars.Tests.JustMock.CarsControllerTests" name="SortingByEmptyStringShouldThrow" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="f037348e-5622-8afa-d033-2a52f8422eb4" executionId="04834859-c5d5-4b05-9615-8f1b71ef5c6a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="55a31307-e0ad-955e-d03e-8485b4400afd" executionId="a6c64ae6-cc82-4e29-aa2b-90d0e696bfd8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9289f178-2c67-4183-d44e-0a95f0bbc38f" executionId="9e0a9a18-bda9-4890-b9f9-a095cad769ab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a4a492ca-b156-093c-4dad-2c91ffef94c3" executionId="b1fce89a-2a07-416d-b8a3-55b5f067b9bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="16acb12f-ccfb-b450-5855-9be1648ee526" executionId="133a7794-a72d-4f8b-bf30-69fd4e6cb4f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ca634f7-bba5-7e75-6e98-c5196f3991ba" executionId="28f212d9-26c2-46f4-85a3-fc314d4e34ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe6a5130-3fde-1340-d788-efa433e1d62c" executionId="a29ac9a7-acd7-41e4-836d-78e7c93ebee3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="08e76dd2-ea1d-4519-2d96-4e9fa20797cc" executionId="b5fb2a73-2521-4ec0-9613-5a025b9e6217" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8bab4cd7-8f14-88ab-974d-77c2c0eac6a8" executionId="c3853c60-d3f1-4c34-9842-5da090e00d68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

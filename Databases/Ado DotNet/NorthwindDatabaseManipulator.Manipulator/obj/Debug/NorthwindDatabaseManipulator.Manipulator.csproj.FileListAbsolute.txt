@@ -1,0 +1,1 @@
+C:\Users\GG\Documents\visual studio 2015\Projects\AdoDotNet\NorthwindDatabaseManipulator.Manipulator\bin\Debug\NorthwindDatabaseManipulator.Manipulator.exe.config
