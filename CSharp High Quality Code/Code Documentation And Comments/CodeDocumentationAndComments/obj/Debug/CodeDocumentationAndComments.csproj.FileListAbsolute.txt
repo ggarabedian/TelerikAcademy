@@ -1,3 +1,0 @@
-c:\users\john\documents\visual studio 2013\Projects\CodeDocumentationAndComments\CodeDocumentationAndComments\bin\Debug\CodeDocumentationAndComments.exe.config
-c:\users\john\documents\visual studio 2013\Projects\CodeDocumentationAndComments\CodeDocumentationAndComments\obj\Debug\CodeDocumentationAndComments.csprojResolveAssemblyReference.cache
-C:\Users\John\Desktop\High-Quality CSharp\CodeDocumentationAndComments\CodeDocumentationAndComments\bin\Debug\CodeDocumentationAndComments.exe.config

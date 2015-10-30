@@ -1,5 +1,0 @@
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\GenericClass\bin\Debug\GenericClass.exe.config
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\GenericClass\bin\Debug\GenericClass.exe
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\GenericClass\bin\Debug\GenericClass.pdb
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\GenericClass\obj\Debug\GenericClass.exe
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\GenericClass\obj\Debug\GenericClass.pdb

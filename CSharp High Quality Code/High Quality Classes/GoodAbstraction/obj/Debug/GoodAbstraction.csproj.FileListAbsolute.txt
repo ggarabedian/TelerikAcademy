@@ -1,9 +1,0 @@
-c:\users\john\documents\visual studio 2013\Projects\HighQualityClassesHomework\GoodAbstraction\bin\Debug\GoodAbstraction.exe.config
-c:\users\john\documents\visual studio 2013\Projects\HighQualityClassesHomework\GoodAbstraction\bin\Debug\GoodAbstraction.exe
-c:\users\john\documents\visual studio 2013\Projects\HighQualityClassesHomework\GoodAbstraction\bin\Debug\GoodAbstraction.pdb
-c:\users\john\documents\visual studio 2013\Projects\HighQualityClassesHomework\GoodAbstraction\obj\Debug\GoodAbstraction.csprojResolveAssemblyReference.cache
-c:\users\john\documents\visual studio 2013\Projects\HighQualityClassesHomework\GoodAbstraction\obj\Debug\GoodAbstraction.exe
-c:\users\john\documents\visual studio 2013\Projects\HighQualityClassesHomework\GoodAbstraction\obj\Debug\GoodAbstraction.pdb
-C:\Users\John\Desktop\HighQualityClassesHomework\GoodAbstraction\bin\Debug\GoodAbstraction.exe.config
-C:\Users\John\Desktop\HighQualityClassesHomework\GoodAbstraction\obj\Debug\GoodAbstraction.exe
-C:\Users\John\Desktop\HighQualityClassesHomework\GoodAbstraction\obj\Debug\GoodAbstraction.pdb

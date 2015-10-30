@@ -1,6 +1,0 @@
-c:\users\john\documents\visual studio 2013\Projects\HighQualityMethodsHomework\QualityMethods\bin\Debug\QualityMethods.exe.config
-c:\users\john\documents\visual studio 2013\Projects\HighQualityMethodsHomework\QualityMethods\bin\Debug\QualityMethods.exe
-c:\users\john\documents\visual studio 2013\Projects\HighQualityMethodsHomework\QualityMethods\bin\Debug\QualityMethods.pdb
-c:\users\john\documents\visual studio 2013\Projects\HighQualityMethodsHomework\QualityMethods\obj\Debug\QualityMethods.csprojResolveAssemblyReference.cache
-c:\users\john\documents\visual studio 2013\Projects\HighQualityMethodsHomework\QualityMethods\obj\Debug\QualityMethods.exe
-c:\users\john\documents\visual studio 2013\Projects\HighQualityMethodsHomework\QualityMethods\obj\Debug\QualityMethods.pdb

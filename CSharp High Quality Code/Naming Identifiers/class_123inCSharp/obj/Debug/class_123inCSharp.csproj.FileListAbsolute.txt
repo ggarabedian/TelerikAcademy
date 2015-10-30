@@ -1,2 +1,0 @@
-c:\users\john\documents\visual studio 2013\Projects\NamingIdentifiersHomework\class_123inCSharp\bin\Debug\class_123inCSharp.exe.config
-c:\users\john\documents\visual studio 2013\Projects\NamingIdentifiersHomework\class_123inCSharp\obj\Debug\class_123inCSharp.csprojResolveAssemblyReference.cache

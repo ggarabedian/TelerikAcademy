@@ -1,6 +1,0 @@
-C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\State\bin\Debug\State.exe.config
-C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\State\obj\Debug\State.csprojResolveAssemblyReference.cache
-C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\State\bin\Debug\State.exe
-C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\State\bin\Debug\State.pdb
-C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\State\obj\Debug\State.exe
-C:\Users\John\documents\visual studio 2013\Projects\BehavioralPatternsHomework\State\obj\Debug\State.pdb

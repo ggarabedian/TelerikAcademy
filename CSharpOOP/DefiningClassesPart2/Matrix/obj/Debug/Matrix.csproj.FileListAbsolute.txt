@@ -1,5 +1,0 @@
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\Matrix\bin\Debug\Matrix.exe.config
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\Matrix\bin\Debug\Matrix.exe
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\Matrix\bin\Debug\Matrix.pdb
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\Matrix\obj\Debug\Matrix.exe
-c:\users\john\documents\visual studio 2013\Projects\DefiningClassesPart2\Matrix\obj\Debug\Matrix.pdb
