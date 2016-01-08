@@ -1,0 +1,22 @@
+{
+  "name": "viewengines",
+  "description": "View Engines Homework",
+  "main": "server.js",
+  "authors": [
+    "John Smith"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}

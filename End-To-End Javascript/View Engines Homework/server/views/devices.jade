@@ -1,0 +1,12 @@
+extends includes/layout
+
+block main-content
+    div.panel.panel-default
+        div.panel-heading
+            h3.text-center
+                =data.type
+        div.panel-body
+            ul
+                each product in data.products
+                    li.list-unstyled 
+                        =product.name + " | " + product.price + '$'

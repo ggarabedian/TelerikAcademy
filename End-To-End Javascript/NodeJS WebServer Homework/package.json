@@ -1,0 +1,16 @@
+{
+  "name": "nodejswebserver",
+  "version": "0.0.0",
+  "description": "NodeJs WebServer Homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "John Smith",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "jade": "^1.11.0"
+  }
+}

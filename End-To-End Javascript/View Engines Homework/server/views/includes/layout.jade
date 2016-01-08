@@ -1,0 +1,22 @@
+doctype
+html
+    head
+        title Cookie Monster Mobile Store
+        link(rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css")
+            
+    body
+        nav.navbar.navbar-default
+            div.container-fluid
+                ul.nav.navbar-nav.navbar-right
+                    li 
+                        a(href='/') Home
+                    each device in devices
+                        li
+                            a(href=device.url) 
+                                = device.type
+                            
+        block main-content
+            
+        footer.text-center
+            hr
+            h3.footer &copy; The Cookie Monster Mobile Store 

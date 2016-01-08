@@ -1,0 +1,14 @@
+doctype html
+html
+head
+    meta(charset="UTF-8")
+    title File uploader
+body
+    form(method="post", action="/upload", enctype="multipart/form-data")
+        input(type="file" name="fileData")
+        input(type="submit" value="Upload")
+    ul
+        h3 Uploaded files:
+        each fileName in files
+            li
+                a(href="files/" + fileName) !{fileName}
