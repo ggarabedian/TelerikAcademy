@@ -1,0 +1,44 @@
+extends ../shared/layout
+  
+block main-content
+  -var categoryQuery = "&category=" + devices.category
+  -var sortQuery = "&sortBy=" + devices.sortBy
+  div.container  
+    div#search-bar.row
+      div.col.s3
+        a.dropdown-button.btn(data-activates="sort-dropdown") 
+          =(devices.sortBy === "createdOn" ? "Date" : devices.sortBy) || "Date"
+          i.material-icons.right arrow_drop_down
+        ul#sort-dropdown.dropdown-content
+          li
+            a(href="devices?sortBy=createdOn" + categoryQuery) Date
+          li
+            a(href="devices?sortBy=name" + categoryQuery) Name
+          li
+            a(href="devices?sortBy=price" + categoryQuery) Price
+      div.col.s9.right-align
+        a.btn(href="/devices/add") Add New Device
+    div#height-device-all.row  
+      each device in devices.docs
+        div#heigth-device-container.col.s3.device-list-img
+          a(href="/devices/" + device.id)
+            img(src=device.imageUrl)
+            div.center-align
+              =device.name
+              
+    div.row
+      div.col.s12
+      -var page = 1
+      -var currentPage = parseInt(devices.page)
+      -var prevPage = currentPage - 1
+      -var nextPage = currentPage + 1
+        ul.pagination.center-align
+          li(class=(currentPage == 1 ? "hide" : ""))
+            a(href="devices?page=" + prevPage + categoryQuery + sortQuery)
+              i.material-icons chevron_left
+          while page <= devices.pages
+            li.wave-effect(class=(page == devices.page ? "active" : ""))
+              a(href="devices?page=" + page + categoryQuery + sortQuery)= page++
+          li(class=(currentPage == devices.pages ? "hide" : ""))
+            a(href="devices?page=" + nextPage + categoryQuery + sortQuery)
+              i.material-icons chevron_right    

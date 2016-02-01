@@ -1,0 +1,16 @@
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\MusicSystem.ConsoleClient.exe.config
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\MusicSystem.ConsoleClient.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\MusicSystem.ConsoleClient.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\MusicSystem.Data.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\MusicSystem.Models.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\MusicSystem.Data.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\MusicSystem.Models.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\obj\Debug\MusicSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\obj\Debug\MusicSystem.ConsoleClient.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.ConsoleClient\obj\Debug\MusicSystem.ConsoleClient.pdb

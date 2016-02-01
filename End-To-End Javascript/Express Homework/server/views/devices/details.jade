@@ -1,0 +1,22 @@
+extends ../shared/layout
+
+block main-content
+  div#height-device-details.container
+    h2.center-align
+      =device.name
+    div.row
+      div.col.s6.device-detail-img
+        img(src=device.imageUrl, alt="No Picture")
+      div.col.s6
+        h6 Display:
+          =device.display
+        h6 Ram:
+          =device.ram
+        h6 Processor:
+          =device.processor
+        h6 Battery:
+          =device.battery
+        hr
+        p Description:
+          p
+            =device.description

@@ -1,0 +1,16 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"
+    CodeBehind="EnglishLocalization.master.cs"
+    Inherits="InternationalCompany.English.EnglishLocalization" %>
+
+<asp:Content ID="PageContent" ContentPlaceHolderID="ContentPlaceHolderMainContent" runat="server">
+    <div>
+        <ul>
+            <li><a href="Home.aspx">Home</a></li>
+            <li><a href="About.aspx">About</a></li>
+            <li><a href="Contact.aspx">Contact</a></li>
+        </ul>
+    </div>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderEnglishContent" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

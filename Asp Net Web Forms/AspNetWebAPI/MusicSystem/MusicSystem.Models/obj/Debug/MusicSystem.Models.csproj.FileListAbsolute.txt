@@ -1,0 +1,10 @@
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\bin\Debug\MusicSystem.Models.dll.config
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\bin\Debug\MusicSystem.Models.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\bin\Debug\MusicSystem.Models.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\bin\Debug\EntityFramework.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\bin\Debug\EntityFramework.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\obj\Debug\MusicSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\obj\Debug\MusicSystem.Models.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\ASPDotNETWebAPI\MusicSystem\MusicSystem.Models\obj\Debug\MusicSystem.Models.pdb

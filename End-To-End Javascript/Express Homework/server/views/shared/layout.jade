@@ -1,0 +1,49 @@
+doctype
+html
+  head
+    title Mobile shop
+    base(href="/")
+    include styles
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+  body
+    .container
+      nav.light-green
+      ul#devices-dropdown.dropdown-content
+        li
+          a(href="/devices") All Devices
+        li
+          a(href="/devices?category=phones") Phones
+        li
+          a(href="/devices?category=phablets") Phablets
+        li
+          a(href="/devices?category=tablets") Tablets
+        li
+          a(href="/devices?category=wearables")  Wearables
+        li
+          a(href="/devices?category=readers") Readers
+      nav
+        .nav-wrapper
+          a.brand-logo(href="/") Mobile shop
+          ul#nav-mobile.right.hide-on-med-and-down
+            li
+              a.dropdown-button(data-activates="devices-dropdown") Devices
+                i.material-icons.right arrow_drop_down
+            if (currentUser)
+              li
+                a(href="/profile") #{currentUser.username}
+              li
+                a(href="/logout") Logout
+            else
+              li
+                a(href="/login") Login
+              li
+                a(href="/register") Register
+
+      .container
+        if (errorMessage)
+          .card-panel.red.lighten-3.center-align #{errorMessage}
+
+      block main-content    
+
+    script(src="/lib/jquery/dist/jquery.js")           
+    script(src="/lib/Materialize/dist/js/materialize.js")      

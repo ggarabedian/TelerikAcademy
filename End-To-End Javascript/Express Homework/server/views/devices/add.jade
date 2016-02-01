@@ -1,0 +1,33 @@
+extends ../shared/layout
+  
+block main-content
+  .row
+    form.col.s8.offset-s2(action="/devices/add" method="post")
+      .row
+        .input-field.col.s12
+          input#tb-device-name(type="text", name="name")
+          label(for="tb-device-name") Name
+      .row
+        .input-field.col.s12
+          input#tb-image-url(type="text", name="imageUrl")
+          label(for="tb-image-url") Image Url
+      .row
+        .col.s12
+          label(for="select-category") Category
+          select.browser-default#select-category(name="category")
+            option(value="phones") Phones
+            option(value="phablets") Phablets
+            option(value="tablets") Tablets
+            option(value="wearables") Wearables
+            option(value="readers") Readers           
+      .row
+        .col.s12
+          label(for="ta-description") Description     
+          textarea#ta-description(name="description")
+      .row
+        .col.s12
+          label(for="ta-price") Price     
+          textarea#ta-price(name="price")
+      .row
+        .input-field.col.s12
+          button.btn.waves-effect.waves-light.right(type="submit") Add
